@@ -1,0 +1,7 @@
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\obj\Debug\Homework_Block5.csprojAssemblyReference.cache
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\obj\Debug\Homework_Block5.csproj.CoreCompileInputs.cache
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\bin\Debug\Homework_Block5.exe.config
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\bin\Debug\Homework_Block5.exe
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\bin\Debug\Homework_Block5.pdb
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\obj\Debug\Homework_Block5.exe
+C:\Users\yelyzaveta.tarash\source\repos\Homework_Block5\Homework_Block5\obj\Debug\Homework_Block5.pdb
